@@ -14,7 +14,7 @@ you should practice regularly.
 
 ## You should NOT
 * Make assumptions
-* Be overly queit
+* Be overly quiet
 * Give up. 
 
 ## Problem Sets
