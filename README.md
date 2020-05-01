@@ -22,3 +22,4 @@ you should practice regularly.
 | Set | Links |
 | --- | --- |
 |Problem Set 1| [A](https://github.com/joinpursuit/iOS-Mock-Interview/blob/master/01A.md) & [B](https://github.com/joinpursuit/iOS-Mock-Interview/blob/master/01B.md)
+|Problem Set 2| [A](https://github.com/joinpursuit/iOS-Mock-Interview/blob/master/02A.md) & [B](https://github.com/joinpursuit/iOS-Mock-Interview/blob/master/02b.md)
